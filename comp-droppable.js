@@ -4,6 +4,7 @@ cc.Class({
   name: 'Droppable',
   extends: cc.Component,
   properties: {
+    tag: "",
     draggableClassName: {
       default: 'Draggable'
     },
