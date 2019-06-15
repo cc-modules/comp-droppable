@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@code.vipkid.com.cn:3590/lingobus-fe/games/library/comp-droppable.git"
+    "url": "ssh://git@code.vipkid.com.cn:3590/edu/cc-game/infra/comp-droppable.git"
   },
   "author": "wangweihua@vipkid.com.cn",
   "license": "ISC"
